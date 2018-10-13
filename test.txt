@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 first modify by git .i give it new date ,is 2018.10.13 -----ok!
@@ -6,3 +7,8 @@ third modify by git.
 fourth modify by git.
 fifth modify by git.
 sixth modify by git.
+=======
+第一个分支 iss53
+
+is second modify from iss53
+>>>>>>> iss53
