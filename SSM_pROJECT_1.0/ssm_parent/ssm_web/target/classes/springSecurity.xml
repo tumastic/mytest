@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:security="http://www.springframework.org/schema/security"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/security
+    http://www.springframework.org/schema/security/spring-security.xsd">
+
+    <security:http pattern="/css/**" security="none"></security:http>
+    <security:http pattern="/img/**" security="none"></security:http>
+    <security:http pattern="/pages/**" security="none"></security:http>
+    <security:http pattern = "/plugins/**" security="none"></security:http>
+    <security:http pattern="/error.jsp" security="none"></security:http>
+    <security:http pattern="/login.jsp" security="none"></security:http>
+
+    <security:http auto-config="true" use-expressions="true">
+        <security:intercept-url pattern="/*" access="hasAnyRole('ROLE_USER','ROLE_ADMIN','ROLE_ORDER','ROLE_PRODUCT')"/>
+        <security:form-login login-page="/login.jsp" login-processing-url="/login" default-target-url="/index.jsp" authentication-failure-url="/error.jsp"></security:form-login>
+        <security:access-denied-handler error-page="/403.jsp"/>
+        <security:csrf disabled="true"/>
+        <security:logout invalidate-session="true" logout-url="/logout" logout-success-url="/login.jsp"/>
+    </security:http>
+    <security:authentication-manager>
+        <security:authentication-provider user-service-ref="userService">
+         <security:password-encoder ref="bCryptPasswordEncoder"/>
+        </security:authentication-provider>
+    </security:authentication-manager>
+<bean id="bCryptPasswordEncoder" class="org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder"></bean>
+
+</beans>
