@@ -14,15 +14,6 @@
     <packaging>jar</packaging>
 
     <dependencies>
-        <!--spring相关 -->
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-jdbc</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-tx</artifactId>
-        </dependency>
         <!-- dao层的依赖-->
         <dependency>
             <groupId>cn.itcast.ssm_project</groupId>

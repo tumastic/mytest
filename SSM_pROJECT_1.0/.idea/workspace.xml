@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ssm_web:war" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a3069646-ca1e-4391-8bbe-02b30cc110cc" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,13 +21,131 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="PageInfo.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.0.0/pagehelper-5.0.0.jar!/com/github/pagehelper/PageInfo.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2240">
-              <caret line="99" column="24" lean-forward="true" selection-start-line="99" selection-start-column="24" selection-end-line="99" selection-end-column="24" />
+            <state relative-caret-position="322">
+              <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="21" />
+              <folding>
+                <marker date="1492505886207" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1492505886207" expanded="false" signature="145:218" ph="..." />
+                <marker date="1492505886207" expanded="true" signature="865:1011" ph="{...}" />
+                <marker date="1492505886207" expanded="true" signature="1046:1057" ph=" { " />
+                <marker date="1492505886207" expanded="true" signature="1071:1077" ph=" }" />
+                <marker date="1492505886207" expanded="true" signature="1132:2423" ph="{...}" />
+                <marker date="1492505886207" expanded="true" signature="2465:3496" ph="{...}" />
+                <marker date="1492505886207" expanded="true" signature="3526:3990" ph="{...}" />
+                <marker date="1492505886207" expanded="true" signature="4028:4238" ph="{...}" />
+                <marker date="1492505886207" expanded="false" signature="4267:4278" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="4298:4304" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="4345:4356" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="4379:4385" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="4415:4426" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="4447:4453" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="4496:4507" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="4532:4538" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="4564:4575" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="4592:4598" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="4633:4644" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="4661:4667" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="4697:4708" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="4729:4735" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="4778:4789" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="4814:4820" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="4848:4859" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="4878:4884" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="4923:4934" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="4955:4961" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="4989:5000" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="5018:5024" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="5062:5073" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="5092:5098" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="5125:5136" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="5154:5160" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="5197:5208" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="5227:5233" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="5263:5274" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="5291:5297" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="5336:5347" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="5364:5370" ph=" }" />
+                <marker date="1492505886207" expanded="true" signature="5376:5394" ph="/**...*/" />
+                <marker date="1492505886207" expanded="false" signature="5440:5451" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="5481:5487" ph=" }" />
+                <marker date="1492505886207" expanded="true" signature="5493:5511" ph="/**...*/" />
+                <marker date="1492505886207" expanded="false" signature="5571:5582" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="5617:5623" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="5652:5663" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="5683:5689" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="5730:5741" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="5764:5770" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="5800:5811" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="5832:5838" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="5881:5892" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="5917:5923" ph=" }" />
+                <marker date="1492505886207" expanded="true" signature="5929:5947" ph="/**...*/" />
+                <marker date="1492505886207" expanded="false" signature="5992:6003" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="6032:6038" ph=" }" />
+                <marker date="1492505886207" expanded="true" signature="6044:6062" ph="/**...*/" />
+                <marker date="1492505886207" expanded="false" signature="6120:6131" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="6164:6170" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="6206:6217" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="6241:6247" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="6300:6311" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="6342:6348" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="6383:6394" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="6417:6423" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="6474:6485" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="6514:6520" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="6560:6571" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="6599:6605" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="6666:6677" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="6716:6722" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="6758:6769" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="6793:6799" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="6852:6863" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="6894:6900" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="6935:6946" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="6972:6978" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="7031:7042" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="7077:7083" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="7123:7134" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="7163:7169" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="7230:7241" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="7282:7288" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="7327:7338" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="7368:7374" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="7412:7423" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="7452:7458" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="7519:7530" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="7573:7579" ph=" }" />
+                <marker date="1492505886207" expanded="false" signature="7638:7649" ph=" { " />
+                <marker date="1492505886207" expanded="false" signature="7690:7696" ph=" }" />
+                <marker date="1492505886207" expanded="true" signature="7727:9197" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="productController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/java/cn/itcast/controller/productController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="productList.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/jsp/product/productList.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1485">
+              <caret line="300" column="22" lean-forward="true" selection-start-line="300" selection-start-column="22" selection-end-line="300" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -34,6 +157,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jsp File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -46,22 +170,44 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/ssm_parent/ssm_utils/pom.xml" />
         <option value="$PROJECT_DIR$/ssm_parent/ssm_domain/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/pages/aside.jsp" />
+        <option value="$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/jsp.jsp" />
         <option value="$PROJECT_DIR$/ssm_parent/ssm_dao/pom.xml" />
         <option value="$PROJECT_DIR$/ssm_parent/ssm_service/pom.xml" />
         <option value="$PROJECT_DIR$/ssm_parent/ssm_web/pom.xml" />
-        <option value="$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/pages/aside.jsp" />
-        <option value="$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/jsp.jsp" />
+        <option value="$PROJECT_DIR$/ssm_parent/ssm_dao/src/main/java/productDao.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm_parent/ssm_domain/src/main/java/cn/itcast/Product.java" />
+        <option value="$PROJECT_DIR$/ssm_parent/ssm_dao/src/main/java/cn/itcast/dao/productDao.java" />
+        <option value="$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/impl/findAllProduct.java" />
+        <option value="$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/impl/productServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/productService.java" />
+        <option value="$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/impl/ProductServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ssm_parent/ssm_web/src/main/resources/springmvc.xml" />
+        <option value="$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/ssm_parent/ssm_web/src/main/java/cn/itcast/controller/productController.java" />
+        <option value="$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/jsp/product/productList.jsp" />
       </list>
     </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -73,15 +219,43 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssm_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssm_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssm_service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssm_service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssm_web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssm_web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-307" />
-    <option name="y" value="74" />
+    <option name="x" value="127" />
+    <option name="y" value="9" />
     <option name="width" value="1938" />
-    <option name="height" value="958" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -98,26 +272,288 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSM_Project_1.0 -2" type="462c0819:PsiDirectoryNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSM_Project_1.0 -2" type="462c0819:PsiDirectoryNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
               <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_domain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_domain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_domain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_domain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -127,14 +563,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.33125556" />
+    <property name="SearchEverywhereHistoryKey" value="itemsServiceImpl&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.itcast.utils" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\temp\git\repository\SSM_Project_1.0\ssm_parent\ssm_domain\src\main\java" />
+      <recent name="D:\temp\git\repository\SSM_Project_1.0\ssm_parent\ssm_web\src\main\resources" />
+      <recent name="D:\temp\git\repository\SSM_Project_1.0\ssm_parent\ssm_web\src\main\webapp\WEB-INF\jsp" />
       <recent name="D:\SSM_FIVEDAY\SSM_Project_1.0 -2" />
       <recent name="D:\SSM_FIVEDAY\SSM_Project_1.0\ssm_parent\ssm_web\src\main\webapp" />
-      <recent name="D:\SSM_FIVEDAY\SSM_Project_1.0\ssm_parent\ssm_web\src\main\webapp\WEB-INF" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -149,7 +591,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Tomcat Server.tomcat">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -224,6 +666,113 @@
       <envs />
       <properties />
       <listeners />
+    </configuration>
+    <configuration name="tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9090" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="START_JAVASCRIPT_DEBUGGER" value="true" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ssm_web:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/ssm_web" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_ssm_parent_3" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54147" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="54148" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ssm_web:war" />
+        </option>
+      </method>
     </configuration>
     <configuration name="tomcat_ssm_project" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="tomcat8.0" ALTERNATIVE_JRE_ENABLED="false">
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
@@ -338,6 +887,10 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.tomcat_ssm_project" />
+      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.tomcat" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -354,40 +907,43 @@
       <updated>1538186594669</updated>
       <workItem from="1538186597509" duration="3361000" />
       <workItem from="1539865206817" duration="52000" />
+      <workItem from="1539865777896" duration="7007000" />
+      <workItem from="1539909552192" duration="526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3413000" />
+    <option name="totallyTimeSpent" value="10946000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-307" y="74" width="1938" height="958" extended-state="0" />
+    <frame x="127" y="9" width="1938" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995495" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39977476" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34725538" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34684685" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16541755" sideWeight="0.4522613" order="6" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16541755" sideWeight="0.5477387" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16970022" sideWeight="0.44256756" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16970022" sideWeight="0.5574324" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
@@ -395,7 +951,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
@@ -411,10 +967,129 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_utils/pom.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.0.0/pagehelper-5.0.0.jar!/com/github/pagehelper/PageInfo.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="19" column="31" lean-forward="false" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        <state relative-caret-position="322">
+          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="21" />
+          <folding>
+            <marker date="1492505886207" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1492505886207" expanded="false" signature="145:218" ph="..." />
+            <marker date="1492505886207" expanded="true" signature="865:1011" ph="{...}" />
+            <marker date="1492505886207" expanded="true" signature="1046:1057" ph=" { " />
+            <marker date="1492505886207" expanded="true" signature="1071:1077" ph=" }" />
+            <marker date="1492505886207" expanded="true" signature="1132:2423" ph="{...}" />
+            <marker date="1492505886207" expanded="true" signature="2465:3496" ph="{...}" />
+            <marker date="1492505886207" expanded="true" signature="3526:3990" ph="{...}" />
+            <marker date="1492505886207" expanded="true" signature="4028:4238" ph="{...}" />
+            <marker date="1492505886207" expanded="false" signature="4267:4278" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="4298:4304" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="4345:4356" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="4379:4385" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="4415:4426" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="4447:4453" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="4496:4507" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="4532:4538" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="4564:4575" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="4592:4598" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="4633:4644" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="4661:4667" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="4697:4708" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="4729:4735" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="4778:4789" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="4814:4820" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="4848:4859" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="4878:4884" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="4923:4934" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="4955:4961" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="4989:5000" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="5018:5024" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="5062:5073" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="5092:5098" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="5125:5136" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="5154:5160" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="5197:5208" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="5227:5233" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="5263:5274" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="5291:5297" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="5336:5347" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="5364:5370" ph=" }" />
+            <marker date="1492505886207" expanded="true" signature="5376:5394" ph="/**...*/" />
+            <marker date="1492505886207" expanded="false" signature="5440:5451" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="5481:5487" ph=" }" />
+            <marker date="1492505886207" expanded="true" signature="5493:5511" ph="/**...*/" />
+            <marker date="1492505886207" expanded="false" signature="5571:5582" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="5617:5623" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="5652:5663" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="5683:5689" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="5730:5741" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="5764:5770" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="5800:5811" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="5832:5838" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="5881:5892" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="5917:5923" ph=" }" />
+            <marker date="1492505886207" expanded="true" signature="5929:5947" ph="/**...*/" />
+            <marker date="1492505886207" expanded="false" signature="5992:6003" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="6032:6038" ph=" }" />
+            <marker date="1492505886207" expanded="true" signature="6044:6062" ph="/**...*/" />
+            <marker date="1492505886207" expanded="false" signature="6120:6131" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="6164:6170" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="6206:6217" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="6241:6247" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="6300:6311" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="6342:6348" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="6383:6394" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="6417:6423" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="6474:6485" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="6514:6520" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="6560:6571" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="6599:6605" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="6666:6677" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="6716:6722" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="6758:6769" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="6793:6799" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="6852:6863" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="6894:6900" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="6935:6946" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="6972:6978" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="7031:7042" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="7077:7083" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="7123:7134" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="7163:7169" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="7230:7241" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="7282:7288" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="7327:7338" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="7368:7374" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="7412:7423" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="7452:7458" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="7519:7530" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="7573:7579" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="7638:7649" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="7690:7696" ph=" }" />
+            <marker date="1492505886207" expanded="true" signature="7727:9197" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/java/cn/itcast/controller/productController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/jsp/product/productList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6739">
+          <caret line="293" column="131" lean-forward="false" selection-start-line="293" selection-start-column="131" selection-end-line="293" selection-end-column="131" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -423,30 +1098,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
           <caret line="20" column="17" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="20" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_dao/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="79" column="20" lean-forward="false" selection-start-line="79" selection-start-column="20" selection-end-line="79" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="30" column="21" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="30" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="103" column="36" lean-forward="false" selection-start-line="103" selection-start-column="36" selection-end-line="103" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -478,10 +1129,308 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_domain/src/main/java/Product.java" />
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/jsp/product/productAdd.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2240">
-          <caret line="99" column="24" lean-forward="true" selection-start-line="99" selection-start-column="24" selection-end-line="99" selection-end-column="24" />
+        <state relative-caret-position="2926">
+          <caret line="151" column="0" lean-forward="false" selection-start-line="151" selection-start-column="0" selection-end-line="151" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE.jar!/org/springframework/format/annotation/DateTimeFormat.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.0.0/pagehelper-5.0.0.jar!/com/github/pagehelper/Page.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3243">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/jsp/product/productUpdate.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="107" column="65" lean-forward="false" selection-start-line="107" selection-start-column="65" selection-end-line="107" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_utils/src/main/java/cn/itcast/utils/DateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE.jar!/org/springframework/web/bind/annotation/RequestParam.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/productService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.0.0/pagehelper-5.0.0.jar!/com/github/pagehelper/page/PageMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="35" column="45" lean-forward="false" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.0.0/pagehelper-5.0.0.jar!/com/github/pagehelper/PageHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="18" column="36" lean-forward="false" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_domain/src/main/java/cn/itcast/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1150">
+          <caret line="106" column="32" lean-forward="false" selection-start-line="106" selection-start-column="32" selection-end-line="106" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/impl/ProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_dao/src/main/java/cn/itcast/dao/productDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="1218" column="0" lean-forward="false" selection-start-line="1218" selection-start-column="0" selection-end-line="1218" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_utils/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="31" lean-forward="false" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_dao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/resources/oracle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/resources/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-579">
+          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-713">
+          <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/resources/applicationContextForSSM.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-292">
+          <caret line="34" column="39" lean-forward="false" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+          <folding>
+            <element signature="e#1792#1810#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/java/cn/itcast/controller/productController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.0.0/pagehelper-5.0.0.jar!/com/github/pagehelper/PageInfo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="21" />
+          <folding>
+            <marker date="1492505886207" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1492505886207" expanded="false" signature="145:218" ph="..." />
+            <marker date="1492505886207" expanded="true" signature="865:1011" ph="{...}" />
+            <marker date="1492505886207" expanded="true" signature="1046:1057" ph=" { " />
+            <marker date="1492505886207" expanded="true" signature="1071:1077" ph=" }" />
+            <marker date="1492505886207" expanded="true" signature="1132:2423" ph="{...}" />
+            <marker date="1492505886207" expanded="true" signature="2465:3496" ph="{...}" />
+            <marker date="1492505886207" expanded="true" signature="3526:3990" ph="{...}" />
+            <marker date="1492505886207" expanded="true" signature="4028:4238" ph="{...}" />
+            <marker date="1492505886207" expanded="false" signature="4267:4278" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="4298:4304" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="4345:4356" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="4379:4385" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="4415:4426" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="4447:4453" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="4496:4507" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="4532:4538" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="4564:4575" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="4592:4598" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="4633:4644" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="4661:4667" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="4697:4708" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="4729:4735" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="4778:4789" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="4814:4820" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="4848:4859" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="4878:4884" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="4923:4934" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="4955:4961" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="4989:5000" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="5018:5024" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="5062:5073" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="5092:5098" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="5125:5136" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="5154:5160" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="5197:5208" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="5227:5233" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="5263:5274" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="5291:5297" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="5336:5347" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="5364:5370" ph=" }" />
+            <marker date="1492505886207" expanded="true" signature="5376:5394" ph="/**...*/" />
+            <marker date="1492505886207" expanded="false" signature="5440:5451" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="5481:5487" ph=" }" />
+            <marker date="1492505886207" expanded="true" signature="5493:5511" ph="/**...*/" />
+            <marker date="1492505886207" expanded="false" signature="5571:5582" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="5617:5623" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="5652:5663" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="5683:5689" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="5730:5741" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="5764:5770" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="5800:5811" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="5832:5838" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="5881:5892" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="5917:5923" ph=" }" />
+            <marker date="1492505886207" expanded="true" signature="5929:5947" ph="/**...*/" />
+            <marker date="1492505886207" expanded="false" signature="5992:6003" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="6032:6038" ph=" }" />
+            <marker date="1492505886207" expanded="true" signature="6044:6062" ph="/**...*/" />
+            <marker date="1492505886207" expanded="false" signature="6120:6131" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="6164:6170" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="6206:6217" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="6241:6247" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="6300:6311" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="6342:6348" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="6383:6394" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="6417:6423" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="6474:6485" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="6514:6520" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="6560:6571" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="6599:6605" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="6666:6677" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="6716:6722" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="6758:6769" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="6793:6799" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="6852:6863" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="6894:6900" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="6935:6946" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="6972:6978" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="7031:7042" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="7077:7083" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="7123:7134" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="7163:7169" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="7230:7241" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="7282:7288" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="7327:7338" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="7368:7374" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="7412:7423" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="7452:7458" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="7519:7530" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="7573:7579" ph=" }" />
+            <marker date="1492505886207" expanded="false" signature="7638:7649" ph=" { " />
+            <marker date="1492505886207" expanded="false" signature="7690:7696" ph=" }" />
+            <marker date="1492505886207" expanded="true" signature="7727:9197" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/jsp/product/productList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="300" column="22" lean-forward="true" selection-start-line="300" selection-start-column="22" selection-end-line="300" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -541,7 +1490,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>ssm_web</last-edited>
+          <last-edited>ssm_dao</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -566,7 +1515,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: cn.itcast.ssm:ssm_dao:1.0-SNAPSHOT</last-edited>
+          <last-edited>Maven: javax.servlet:jsp-api:2.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

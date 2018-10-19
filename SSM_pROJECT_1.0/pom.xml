@@ -22,7 +22,7 @@
         <spring.security.version>5.0.1.RELEASE</spring.security.version>
     </properties>
 <!-- 处理pom的时候一定要先将management关掉在进行修改,完毕后在打开 -->
- <dependencyManagement>
+
         <dependencies>
             <!-- Mybatis -->
             <dependency>
@@ -149,7 +149,7 @@
                 <version>${spring.security.version}</version>
             </dependency>
         </dependencies>
-</dependencyManagement>
+
     <build>
         <plugins>
             <plugin>
