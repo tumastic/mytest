@@ -41,104 +41,31 @@
       <file leaf-file-name="applicationContextForSSM.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/resources/applicationContextForSSM.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="34" column="39" lean-forward="false" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+            <state relative-caret-position="1104">
+              <caret line="48" column="19" lean-forward="false" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/login.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-552">
-              <caret line="6" column="53" lean-forward="false" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="springmvc.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/resources/springmvc.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="37" column="42" lean-forward="false" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="springSecurity.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/resources/springSecurity.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="10" column="69" lean-forward="false" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sysRoleDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_dao/src/main/java/cn/itcast/dao/sysRoleDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SysUser.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_domain/src/main/java/cn/itcast/SysUser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="31" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sysUserDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_dao/src/main/java/cn/itcast/dao/sysUserDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/impl/UserServiceImpl.java">
+      <file leaf-file-name="ProductServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/impl/ProductServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="253">
-              <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="21" />
+              <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/impl/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1017#1035#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="userServiceTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_service/src/test/java/userServiceTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="52" lean-forward="false" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -176,21 +103,25 @@
         <option value="$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/impl/findAllProduct.java" />
         <option value="$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/impl/productServiceImpl.java" />
         <option value="$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/productService.java" />
-        <option value="$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/impl/ProductServiceImpl.java" />
-        <option value="$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/ssm_parent/ssm_web/src/main/java/cn/itcast/controller/productController.java" />
         <option value="$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/jsp/product/productList.jsp" />
         <option value="$PROJECT_DIR$/ssm_parent/ssm_web/src/main/resources/springmvc.xml" />
-        <option value="$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/UserService.java" />
         <option value="$PROJECT_DIR$/ssm_parent/ssm_domain/src/main/java/cn/itcast/SysUser.java" />
         <option value="$PROJECT_DIR$/ssm_parent/ssm_domain/src/main/java/cn/itcast/SysRole.java" />
         <option value="$PROJECT_DIR$/ssm_parent/ssm_service/src/main/resources/applicationContextForSSM.xml" />
-        <option value="$PROJECT_DIR$/ssm_parent/ssm_dao/src/main/java/cn/itcast/dao/sysUserDao.java" />
-        <option value="$PROJECT_DIR$/ssm_parent/ssm_dao/src/main/java/cn/itcast/dao/sysRoleDao.java" />
-        <option value="$PROJECT_DIR$/ssm_parent/ssm_service/src/test/java/userServiceTest.java" />
-        <option value="$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/ssm_parent/ssm_web/src/main/resources/springSecurity.xml" />
+        <option value="$PROJECT_DIR$/ssm_parent/ssm_service/src/test/java/userServiceTest.java" />
+        <option value="$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/jsp/user/managerUserRole.jsp" />
+        <option value="$PROJECT_DIR$/ssm_parent/ssm_dao/src/main/java/cn/itcast/dao/sysRoleDao.java" />
+        <option value="$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/RoleService.java" />
+        <option value="$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/impl/RoleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ssm_parent/ssm_web/src/main/java/cn/itcast/controller/sysUserController.java" />
+        <option value="$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/UserService.java" />
+        <option value="$PROJECT_DIR$/ssm_parent/ssm_dao/src/main/java/cn/itcast/dao/sysUserDao.java" />
+        <option value="$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/impl/ProductServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/impl/UserServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -223,12 +154,11 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="ssm_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="ssm_dao" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="ssm_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
@@ -252,11 +182,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1050" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-71" />
+    <option name="width" value="1920" />
+    <option name="height" value="1032" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -273,10 +202,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -449,6 +375,15 @@
               <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
               <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
               <item name="ssm_utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -553,10 +488,36 @@
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM_Project_1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -580,11 +541,11 @@
       <recent name="cn.itcast.utils" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\temp\git\repository\SSM_Project_1.0\ssm_parent\ssm_web\src\main\webapp\WEB-INF\jsp" />
       <recent name="D:\temp\git\repository\SSM_Project_1.0\ssm_parent\ssm_service\src\main\resources" />
       <recent name="D:\temp\git\repository\SSM_Project_1.0\ssm_parent\ssm_web\src\main\webapp\WEB-INF" />
       <recent name="D:\temp\git\repository\SSM_Project_1.0\ssm_parent\ssm_web\src\main\resources" />
       <recent name="D:\temp\git\repository\SSM_Project_1.0\ssm_parent\ssm_domain\src\main\java" />
-      <recent name="D:\temp\git\repository\SSM_Project_1.0\ssm_parent\ssm_web\src\main\webapp\WEB-INF\jsp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -630,6 +591,26 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="userServiceTest.findAllUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="ssm_service" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="userServiceTest" />
+      <option name="METHOD_NAME" value="findAllUser" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -698,7 +679,9 @@
     <configuration name="tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9090" ALTERNATIVE_JRE_ENABLED="false">
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="START_JAVASCRIPT_DEBUGGER" value="true" />
-      <option name="UPDATING_POLICY" value="restart-server" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="HOT_SWAP_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="hot-swap-classes" />
       <deployment>
         <artifact name="ssm_web:war">
           <settings>
@@ -915,14 +898,16 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.tomcat_ssm_project" />
       <item index="1" class="java.lang.String" itemvalue="Tomcat Server.tomcat" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.userServiceTest.loadUserByUsernameTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.userServiceTest.findAllUser" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.userServiceTest.loadUserByUsernameTest" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.userServiceTest.findAllUser" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.userServiceTest.loadUserByUsernameTest" />
       </list>
     </recent_temporary>
   </component>
@@ -942,13 +927,14 @@
       <workItem from="1538186597509" duration="3361000" />
       <workItem from="1539865206817" duration="52000" />
       <workItem from="1539865777896" duration="7007000" />
-      <workItem from="1539909552192" duration="12621000" />
+      <workItem from="1539909552192" duration="28286000" />
+      <workItem from="1539993224923" duration="201000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="userServiceTest_loadUserByUsernameTest - 2018.10.19 at 11h 27m 23s.xml">
-      <configuration name="userServiceTest.loadUserByUsernameTest" configurationId="JUnit" />
+    <history-entry file="userServiceTest_findAllUser - 2018.10.19 at 16h 12m 12s.xml">
+      <configuration name="userServiceTest.findAllUser" configurationId="JUnit" />
     </history-entry>
     <history-entry file="userServiceTest_loadUserByUsernameTest - 2018.10.19 at 11h 28m 23s.xml">
       <configuration name="userServiceTest.loadUserByUsernameTest" configurationId="JUnit" />
@@ -979,10 +965,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23041000" />
+    <option name="totallyTimeSpent" value="38907000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
+    <frame x="-71" y="0" width="1920" height="1032" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -990,27 +976,26 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995495" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32411504" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39977476" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39823008" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3586207" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34684685" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16970022" sideWeight="0.4390244" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16970022" sideWeight="0.5609756" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24054053" sideWeight="0.44256756" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16970022" sideWeight="0.5574324" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
@@ -1018,9 +1003,47 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995495" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39933628" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34623894" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27783725" sideWeight="0.44256756" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16970022" sideWeight="0.5574324" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -1042,13 +1065,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/pages/role-list.jsp" />
-    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/pages/role-add.jsp" />
-    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/pages/product-update.jsp" />
-    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/pages/product-show.jsp" />
-    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/pages/product-list.jsp" />
-    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/pages/aside.jsp" />
-    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/jsp.jsp" />
     <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/pages/side.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="467">
@@ -1061,7 +1077,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1091,7 +1106,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="107" column="65" lean-forward="false" selection-start-line="107" selection-start-column="65" selection-end-line="107" selection-end-column="65" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1110,16 +1124,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/productService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.0.0/pagehelper-5.0.0.jar!/com/github/pagehelper/page/PageMethod.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
@@ -1134,28 +1138,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_domain/src/main/java/cn/itcast/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1150">
-          <caret line="106" column="32" lean-forward="false" selection-start-line="106" selection-start-column="32" selection-end-line="106" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
           <caret line="1218" column="0" lean-forward="false" selection-start-line="1218" selection-start-column="0" selection-end-line="1218" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1187,7 +1173,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1203,102 +1188,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="21" />
-          <folding>
-            <marker date="1492505886207" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1492505886207" expanded="false" signature="145:218" ph="..." />
-            <marker date="1492505886207" expanded="true" signature="865:1011" ph="{...}" />
-            <marker date="1492505886207" expanded="true" signature="1046:1057" ph=" { " />
-            <marker date="1492505886207" expanded="true" signature="1071:1077" ph=" }" />
-            <marker date="1492505886207" expanded="true" signature="1132:2423" ph="{...}" />
-            <marker date="1492505886207" expanded="true" signature="2465:3496" ph="{...}" />
-            <marker date="1492505886207" expanded="true" signature="3526:3990" ph="{...}" />
-            <marker date="1492505886207" expanded="true" signature="4028:4238" ph="{...}" />
-            <marker date="1492505886207" expanded="false" signature="4267:4278" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="4298:4304" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="4345:4356" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="4379:4385" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="4415:4426" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="4447:4453" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="4496:4507" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="4532:4538" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="4564:4575" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="4592:4598" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="4633:4644" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="4661:4667" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="4697:4708" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="4729:4735" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="4778:4789" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="4814:4820" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="4848:4859" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="4878:4884" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="4923:4934" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="4955:4961" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="4989:5000" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="5018:5024" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="5062:5073" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="5092:5098" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="5125:5136" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="5154:5160" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="5197:5208" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="5227:5233" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="5263:5274" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="5291:5297" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="5336:5347" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="5364:5370" ph=" }" />
-            <marker date="1492505886207" expanded="true" signature="5376:5394" ph="/**...*/" />
-            <marker date="1492505886207" expanded="false" signature="5440:5451" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="5481:5487" ph=" }" />
-            <marker date="1492505886207" expanded="true" signature="5493:5511" ph="/**...*/" />
-            <marker date="1492505886207" expanded="false" signature="5571:5582" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="5617:5623" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="5652:5663" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="5683:5689" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="5730:5741" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="5764:5770" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="5800:5811" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="5832:5838" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="5881:5892" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="5917:5923" ph=" }" />
-            <marker date="1492505886207" expanded="true" signature="5929:5947" ph="/**...*/" />
-            <marker date="1492505886207" expanded="false" signature="5992:6003" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="6032:6038" ph=" }" />
-            <marker date="1492505886207" expanded="true" signature="6044:6062" ph="/**...*/" />
-            <marker date="1492505886207" expanded="false" signature="6120:6131" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="6164:6170" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="6206:6217" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="6241:6247" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="6300:6311" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="6342:6348" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="6383:6394" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="6417:6423" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="6474:6485" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="6514:6520" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="6560:6571" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="6599:6605" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="6666:6677" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="6716:6722" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="6758:6769" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="6793:6799" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="6852:6863" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="6894:6900" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="6935:6946" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="6972:6978" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="7031:7042" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="7077:7083" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="7123:7134" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="7163:7169" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="7230:7241" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="7282:7288" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="7327:7338" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="7368:7374" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="7412:7423" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="7452:7458" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="7519:7530" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="7573:7579" ph=" }" />
-            <marker date="1492505886207" expanded="false" signature="7638:7649" ph=" { " />
-            <marker date="1492505886207" expanded="false" signature="7690:7696" ph=" }" />
-            <marker date="1492505886207" expanded="true" signature="7727:9197" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1310,19 +1199,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/java/cn/itcast/controller/productController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/jsp/product/productList.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="240" column="14" lean-forward="false" selection-start-line="240" selection-start-column="14" selection-end-line="240" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1338,23 +1218,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="424">
           <caret line="134" column="6" lean-forward="false" selection-start-line="134" selection-start-column="6" selection-end-line="134" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="57" lean-forward="false" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/impl/ProductServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1362,7 +1225,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1370,23 +1232,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_domain/src/main/java/cn/itcast/SysRole.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_domain/src/main/java/cn/itcast/SysUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="31" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1403,36 +1248,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_dao/src/main/java/cn/itcast/dao/productDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_service/src/main/resources/oracle.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_dao/src/main/java/cn/itcast/dao/sysUserDao.java">
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/resources/springmvc.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_dao/src/main/java/cn/itcast/dao/sysRoleDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="731">
+          <caret line="37" column="42" lean-forward="true" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
           <folding />
         </state>
       </provider>
@@ -1445,54 +1279,193 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_service/src/test/java/userServiceTest.java">
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/jsp/role/roleAdd.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="52" lean-forward="false" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/productService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/impl/UserServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/jsp/user/userList.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="21" />
+        <state relative-caret-position="-1311">
+          <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <caret line="75" column="21" lean-forward="true" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/jsp/user/userAdd.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="86" column="22" lean-forward="true" selection-start-line="86" selection-start-column="22" selection-end-line="86" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/jsp/user/managerUserRole.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="101" column="41" lean-forward="false" selection-start-line="101" selection-start-column="41" selection-end-line="101" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1017#1035#0" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/resources/springmvc.xml">
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/RoleService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="37" column="42" lean-forward="false" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
+        <state relative-caret-position="230">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_dao/src/main/java/cn/itcast/dao/productDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/resources/applicationContextForSSM.xml">
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_dao/src/main/java/cn/itcast/dao/sysRoleDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
-          <caret line="34" column="39" lean-forward="false" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+          <caret line="18" column="46" lean-forward="false" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_dao/src/main/java/cn/itcast/dao/sysUserDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        <state relative-caret-position="307">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_domain/src/main/java/cn/itcast/SysRole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_domain/src/main/java/cn/itcast/SysUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/resources/springSecurity.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="10" column="69" lean-forward="false" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
+        <state relative-caret-position="300">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_domain/src/main/java/cn/itcast/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1495">
+          <caret line="106" column="32" lean-forward="false" selection-start-line="106" selection-start-column="32" selection-end-line="106" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/impl/RoleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_service/src/test/java/userServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/java/cn/itcast/controller/sysUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1066">
+          <caret line="99" column="1" lean-forward="true" selection-start-line="99" selection-start-column="1" selection-end-line="99" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1475#1476#0" expanded="true" />
+            <element signature="e#1514#1515#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/java/cn/itcast/controller/productController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_web/src/main/resources/applicationContextForSSM.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="48" column="19" lean-forward="false" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/impl/ProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_parent/ssm_service/src/main/java/cn/itcast/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

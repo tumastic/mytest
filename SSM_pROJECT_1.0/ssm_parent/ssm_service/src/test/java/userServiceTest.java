@@ -9,6 +9,8 @@ import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
+import java.util.List;
+
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(locations = "classpath:applicationContextForSSM.xml")
@@ -24,5 +26,10 @@ public class userServiceTest {
        SysUser user = sysUserDao.findUserByName("test");
         //UserDetails test = userService.loadUserByUsername("test");
         System.out.println(user);
+    }
+    @Test
+    public void findAllUser(){
+        List<SysUser> allUser = userService.findAllUser();
+        System.out.println(allUser);
     }
 }
